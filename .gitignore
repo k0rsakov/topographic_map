@@ -7,3 +7,5 @@
 /.idea/.gitignore
 /.idea/misc.xml
 /.idea/modules.xml
+/notebooks/.ipynb_checkpoints/config-checkpoint.json
+/notebooks/.ipynb_checkpoints/rectangle_irk-checkpoint.csv

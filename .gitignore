@@ -15,3 +15,5 @@
 /notebooks/altitude_info.csv
 /notebooks/.ipynb_checkpoints/auth-checkpoint.py
 /notebooks/auth.py
+/venv
+/py_file/altitude_info.csv
